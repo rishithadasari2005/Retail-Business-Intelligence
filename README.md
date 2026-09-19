@@ -1,7 +1,5 @@
 # Retail Business Intelligence & Performance Analytics
 
-Portfolio project tailored to a management-consulting/data-analytics internship.
-
 ## Objective
 Analyze retail transaction data to identify revenue, profitability, customer, regional and product performance drivers, then translate findings into management recommendations.
 
